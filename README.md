@@ -1,6 +1,6 @@
 # Retro-futuristic portfolio
 
-Персональное портфолио Middle Fullstack / Frontend Developer. Стек: React, TypeScript, Node.js, NestJS и Go.
+Персональное портфолио Middle Fullstack / Frontend Developer. Стек: React, TypeScript, Node.js, NestJS и Go. 
 
 ## Локальный запуск
 
