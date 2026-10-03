@@ -393,14 +393,14 @@ export default function App() {
               <div className="contact">
                 <div>
                   <p className="eyebrow">DIRECT CHANNEL</p>
-                  <a href="mailto:hello@developer.dev">HELLO@DEVELOPER.DEV</a>
+                  <a href="mailto:benjamin.sokolov19@gmail.com">BENJAMIN.SOKOLOV19@GMAIL.COM</a>
                   <p>{t.reply}</p>
                 </div>
                 <div>
                   <a href="https://github.com/SOftRunner" target="_blank">
                     GITHUB <span>↗</span>
                   </a>
-                  <a href="https://t.me" target="_blank">
+                  <a href="https://t.me/SoftRunner" target="_blank" rel="noreferrer">
                     TELEGRAM <span>↗</span>
                   </a>
                   <a
