@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Unbounded:wght@500;700&display=swap");
+:root {
+  font-family: "IBM Plex Mono", monospace;
+  color: #d7ffe8;
+  background: #020806;
+  font-synthesis: none;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+button,
+a {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+}
+::selection {
+  background: #00f58c;
+  color: #001b10;
+}
